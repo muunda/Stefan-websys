@@ -1,0 +1,40 @@
+{
+	"songs":
+	[{
+		"name": "Weight in Gold",
+		"artist": "Gallant",
+		"album": "Weight in Gold",
+		"art": "gallant.jpg",
+		"date":"2015",
+		"genre":"Alt-R&amp;B",
+		"link":"https://soundcloud.com/gallant"
+	},
+	{
+		"name": "Aftergold",
+		"artist": "Big Wild",
+		"album": "Aftergold",
+		"art": "aftergold.jpg",
+		"date":"2015",
+		"genre":"Electronic",
+		"link":"http://www.bigwildmusic.com"
+	},
+	{
+		"name": "The Real Slim Shady",
+		"artist": "Eminem",
+		"album": "The Marshall Mathers LP",
+		"art": "eminem.jpg",
+		"date":"2000",
+		"genre":"Rap",
+		"link":"http://www.eminem.com"
+	},
+	{
+		"name": "Klanga",
+		"artist": "Gostan",
+		"album": "Klanga",
+		"art": "gostan.jpg",
+		"date":"2014",
+		"genre":"Electronic",
+		"link":"https://soundcloud.com/gostanofficial"
+	}
+	]
+}
