@@ -17,8 +17,8 @@ $(document).ready(function() {
          		'<li class = "date">'+ element.date+ '</li>'+ 
          		'<li class = "genre">'+ element.genre+ '</li>'+ 
          		'<li class = "link">'+ element.link+ '</li>'+ 
-         		'</ul></div>';
-         		$('body').append(building);
+         		'</ul></div>'; //building a string with the song infermation in it
+         		$('body').append(building); //adding it to the body
         });
     	}
 		});
