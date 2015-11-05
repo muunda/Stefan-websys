@@ -1,0 +1,60 @@
+{
+	"labs":[{
+		"name":"Lab 1",
+		"directory":"stuff/labs/lab1/ITW2110-F15-W3-Lab1-AMPStack.html"
+		},
+		{
+		"name":"Lab 2",
+		"directory":"stuff/labs/lab2/ITWS2110-Lab2-W4C2L2-Sep21.html"
+		},
+		{
+		"name":"Lab 3",
+		"directory":"stuff/labs/lab3/Lab 3 instructions.html"
+		},
+		{
+		"name":"Lab 4",
+		"directory":"stuff/labs/lab4/Lab 4 Instructions.html"
+		},
+		{
+		"name":"Lab 5",
+		"directory":"stuff/labs/lab5/ITWS2200-F15-Quiz1-lab5instructions.html"
+		},
+		{
+		"name":"Lab 6",
+		"directory":"stuff/labs/lab6/lab6instructions.html"
+		},
+		{
+		"name":"Lab 7",
+		"directory":"stuff/labs/lab7/lab7.html"
+		}
+		],
+	"labsolutions":[{
+		"name":"Lab 1",
+		"directory":"stuff/labs/lab1/"
+		},
+		{
+		"name":"Lab 2",
+		"directory":"stuff/labs/lab2/archive.zip"
+		},
+		{
+		"name":"Lab 3",
+		"directory":"stuff/labs/lab3/archive.zip"
+		},
+		{
+		"name":"Lab 4",
+		"directory":"stuff/labs/lab4/archive.zip"
+		},
+		{
+		"name":"Lab 5",
+		"directory":"stuff/labs/lab5/archive.zip"
+		},
+		{
+		"name":"Lab 6",
+		"directory":"stuff/labs/lab6/archive.zip"
+		},
+		{
+		"name":"Lab 7",
+		"directory":"stuff/labs/lab7/archive.zip"
+		}
+		]
+}
